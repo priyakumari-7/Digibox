@@ -1,0 +1,28 @@
+.searchicon{
+    position: absolute;
+    right:120px;
+    top:0px;
+    padding:7px 10px;
+}
+.searchbar{
+   
+    width: 90%;
+    height: 40px;
+     display: block;
+     border-radius: 30px;
+     
+} 
+.checkbox{
+    padding:0px 10px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.breadcrumb-item{
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.card-body .btn{
+    font-family: sans-serif;
+    text-align: justify;
+}
+

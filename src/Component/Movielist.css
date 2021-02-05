@@ -1,0 +1,25 @@
+.filter{
+    text-align: left;
+    padding: 30px 10px;
+}
+
+.header{
+    right:0;
+}
+.img-holder{
+    background:whitesmoke;
+}
+
+.img-holder .input{
+    text-align:right;
+    float:right;
+    margin-right: 100px;
+    margin-top: -50px ;
+    padding:0px -70px;
+}
+.dropdown{
+    color: white;
+    text-align: right;
+    float:right;
+    margin-right: 100% ;
+}
